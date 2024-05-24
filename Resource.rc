@@ -1,0 +1,14 @@
+#include "Resource.h"
+
+IDB_CARD1			BITMAP	"Res/porygon_1_SM.bmp"
+IDB_CARD2			BITMAP	"Res/porygon_2_SM.bmp"
+IDB_CARD3			BITMAP	"Res/porygon_3_SM.bmp"
+IDB_CARD4			BITMAP	"Res/porygon_4_SM.bmp"
+IDB_CARD5			BITMAP	"Res/porygon_5_SM.bmp"
+IDB_CARD6			BITMAP	"Res/porygon_6_SM.bmp"
+IDB_CARD7			BITMAP	"Res/porygon_7_SM.bmp"
+IDB_CARD8			BITMAP	"Res/porygon_8_SM.bmp"
+IDB_CARDBA			BITMAP	"Res/PokemonBack_SM.bmp"
+
+IDI_UFO		ICON	"Res\\UFO.ico"
+IDI_UFO_SM	ICON	"Res\\UFO_SM.ico"
